@@ -1,0 +1,6 @@
+Name            :  abi
+Password      :  abi
+Email         :  abi@mail.com
+Mobile        :  1234567
+Gender        :  Male
+Occupation    :  Student
